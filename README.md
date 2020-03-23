@@ -1,4 +1,4 @@
-「假粉圓體」是基於[jf open 粉圓](https://github.com/justfont/open-huninn-font)的開放原始碼中文字型。
+「俊羽圓體」是基於[jf open 粉圓](https://github.com/justfont/open-huninn-font)的開放原始碼中文字型。原本的構想是要挑戰把粉圓改成「羽逸体」，發現工程有點浩大，目前是半成品，聊勝於無。也歡迎勇者接續修改，可以把修改好的寄給我，或直接在再開出新的字型名稱。
 
 ## 字體特色
 
