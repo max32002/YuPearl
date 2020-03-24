@@ -38,6 +38,8 @@
     
 ## 相關文章
 
+俊羽圓體 (YuPearl)
+https://max-everyday.com/2020/03/yupearl/
 * 內海字體 (NaikaiFont) 
 https://max-everyday.com/2020/03/naikaifont/
 * 莫大毛筆字體 (Bakudai)
