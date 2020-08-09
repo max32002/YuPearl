@@ -1,11 +1,12 @@
 「俊羽圓體」是基於[jf open 粉圓](https://github.com/justfont/open-huninn-font)的開放原始碼中文字型。原本的構想是要挑戰把粉圓改成「羽逸体」，發現工程有點浩大，目前是半成品，聊勝於無，大家可以試用看看。也歡迎勇者接續修改，可以把修改好的寄給我，或直接在再開出新的字型名稱。
 
-與粉圓體的差別在，橫線右上和左下角，有三角形的襯線，筆觸由原本的圓頭換成方頭，工程浩大在一個字、一個字改，曠日費時。
+## 與粉圓體的差別在
+* 橫線右上和左下角，有三角形的襯線。
+* 筆觸由圓頭換成方頭。
 
-## 字體特色
+目前遇到的問題：工程浩大在一個字、一個字改，曠日費時，目前是半成品狀態。
 
-
-### 5種字重(Style)
+## 5種字重(Style)
 
 * ExtraLight
 * Light
@@ -49,11 +50,15 @@
     * 可自由商用 不需付費、知會或標明作者，即可自由使用此字型，亦可做商業應用。
     * 可自由傳布 可自由分享檔案、將檔案安裝於任何軟硬體中。
     * 可自由改作為其他字型 將字型檔案修改重製為其他字型檔案，改作後的字型檔案須同樣依 Open Font License 釋出。
-    
+
+## 附註
+
+* 演算黑科技將字體變圓改造圓體為羽逸體，請參考 /python/ 目錄下的腳本檔案。透過調整程式碼，也許也可以產生出新的有趣字型。目前的程式應該還有很多錯誤或需要再加強的地方。請先把要處理的字型，轉成 FontForge 的 sfdir, 再透過程式去處理產生出來的檔案。
+
+附註：這一個版本的程式寫很很亂，大多程式碼無法理解是正常的。這份亂七八糟的程式是「獅尾」系列字型轉換程式的最初的版本，不建議花時間在這一個架構下來修改這一個版本，建議使用獅尾系列的轉換程式來修改。
     
 ## 相關網頁
 
-<<<<<<< HEAD
 * 獅尾腿圓 Swei Gothic Leg
 https://max-everyday.com/2020/08/swei-gothic-leg/
 * 獅尾彩虹腿 Swei Rainbow Leg
@@ -82,10 +87,6 @@ https://max-everyday.com/2020/04/swei-half-moon/
 https://max-everyday.com/2020/04/swei-gothic/
 * 獅尾黑體 Swei Sans
 https://max-everyday.com/2020/03/swei-sans/
-=======
-* 俊羽圓體 (YuPearl)
-https://max-everyday.com/2020/03/yupearl/
->>>>>>> 2c060c9a709b61b14c0ed1d08232490923fc511c
 * 內海字體 (NaikaiFont) 
 https://max-everyday.com/2020/03/naikaifont/
 * 莫大毛筆字體 (Bakudai)
@@ -94,14 +95,10 @@ https://max-everyday.com/2020/03/bakudaifont/
 https://max-everyday.com/2020/05/masafont/
 * 清松手寫體 (JasonHandWriting)
 https://jasonfonts.max-everyday.com/
-* 源泉圓體
-https://github.com/ButTaiwan/gensen-font
-* jf open 粉圓
-https://github.com/justfont/open-huninn-font
 * 假粉圓體
-https://github.com/max32002/FakePearl
+https://max-everyday.com/2020/03/open-huninn-font/
 * 俊羽圓體
-https://github.com/max32002/YuPearl
+https://max-everyday.com/2020/03/yupearl/
 * Max學習字體相關的筆記
 https://codereview.max-everyday.com/font-readme/
 
