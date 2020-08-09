@@ -1,5 +1,7 @@
 「俊羽圓體」是基於[jf open 粉圓](https://github.com/justfont/open-huninn-font)的開放原始碼中文字型。原本的構想是要挑戰把粉圓改成「羽逸体」，發現工程有點浩大，目前是半成品，聊勝於無，大家可以試用看看。也歡迎勇者接續修改，可以把修改好的寄給我，或直接在再開出新的字型名稱。
 
+與粉圓體的差別在，橫線右上和左下角，有三角形的襯線，筆觸由原本的圓頭換成方頭，工程浩大在一個字、一個字改，曠日費時。
+
 ## 字體特色
 
 
@@ -51,6 +53,7 @@
     
 ## 相關網頁
 
+<<<<<<< HEAD
 * 獅尾腿圓 Swei Gothic Leg
 https://max-everyday.com/2020/08/swei-gothic-leg/
 * 獅尾彩虹腿 Swei Rainbow Leg
@@ -79,6 +82,10 @@ https://max-everyday.com/2020/04/swei-half-moon/
 https://max-everyday.com/2020/04/swei-gothic/
 * 獅尾黑體 Swei Sans
 https://max-everyday.com/2020/03/swei-sans/
+=======
+* 俊羽圓體 (YuPearl)
+https://max-everyday.com/2020/03/yupearl/
+>>>>>>> 2c060c9a709b61b14c0ed1d08232490923fc511c
 * 內海字體 (NaikaiFont) 
 https://max-everyday.com/2020/03/naikaifont/
 * 莫大毛筆字體 (Bakudai)
