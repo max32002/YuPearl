@@ -53,7 +53,7 @@
 
 ## 附註
 
-* 演算黑科技將字體變圓改造圓體為羽逸體，請參考 /python/ 目錄下的腳本檔案。透過調整程式碼，也許也可以產生出新的有趣字型。目前的程式應該還有很多錯誤或需要再加強的地方。請先把要處理的字型，轉成 FontForge 的 sfdir, 再透過程式去處理產生出來的檔案。
+* 演算黑科技將字體變圓改造圓體為羽逸體，請參考 /python/ 目錄下的腳本檔案。透過調整程式碼，也許也可以產生出新的有趣字型。目前的程式應該還有很多錯誤或需要再加強的地方。請先把要處理的字型，透過 FontForge 開啟，並另存 FontForge 的專案為資料夾格式(.sfdir)，最後就可以透過Max的 Python 程式去處理產生出來的檔案。
 
 附註：這一個版本的程式寫很很亂，大多程式碼無法理解是正常的。這份亂七八糟的程式是「獅尾」系列字型轉換程式的最初的版本，不建議花時間在這一個架構下來修改這一個版本，建議使用獅尾系列的轉換程式來修改。
     
@@ -66,6 +66,8 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾快腿黑體 Swei Shear Leg
+https://max-everyday.com/2020/09/swei-shear-leg/
 * 獅尾快剪黑體 Swei Shear Sans
 https://max-everyday.com/2020/09/swei-shear-sans/
 * 獅尾福音黑體 Swei Gospel Sans
