@@ -38,8 +38,8 @@
 ```
 @font-face {
   font-family: YuPearl-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/YuPearl@1.0/webfont/YuPearl-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/YuPearl@1.0/webfont/YuPearl-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/YuPearl@1.011/webfont/YuPearl-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/YuPearl@1.011/webfont/YuPearl-Regular.woff) format("woff");
 }
 ```
 
